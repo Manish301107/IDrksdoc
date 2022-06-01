@@ -47,7 +47,7 @@
             color:#fff;
             background: #EFC050;
             font-size:5vw;
-            display:block;
+            display:flex;
             padding: 5vw 12px;
             position: relative;
             font-weight:bold;
