@@ -108,6 +108,9 @@
             margin: 10vw 5vw;
             
         }
+        hr {
+            margin-top:-100vh;
+        }
     </style>
 </head>
 <body onLoad="myfunc()">
