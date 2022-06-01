@@ -45,7 +45,7 @@
             background: #EFC050;
             font-size:5vw;
             display:block;
-            padding: 3vw 12px;
+            padding: 10vw 12px;
             position: relative;
             font-weight:bold;
             border-radius:2vw;
