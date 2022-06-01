@@ -23,17 +23,17 @@
         .backpage {
             height: 10vw;
             width: 10vw;
-            margin: -20vw 2vw;
+            margin-top: -30vw;
         }
         .head {
             font-size:5vw;
             margin-left: 25vw;
-            margin-top: -25vw;
+            margin-top: -20vw;
             
         }
         .accordion {
-            width: 50vh;
-            margin: 2vh;
+            width: 55vh;
+            margin: 2vw;
             background: #ffffff;
         }
         .accordion-taggle {
