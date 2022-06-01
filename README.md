@@ -36,7 +36,7 @@
             
         }
         .accordion {
-            width: 53vh;
+            width: 54vh;
             margin: 1vw 0vw;
             background: #ffffff;
         }
