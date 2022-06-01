@@ -8,6 +8,10 @@
             margin: 0vw;
             padding: 0vw;
         }
+        h1 {
+            margin-top:-50vw;
+            color: transparent;
+        }
         #load {
             position:fixed;
             height: 100%;
@@ -32,7 +36,7 @@
             
         }
         .accordion {
-            width: 55vh;
+            width: 53vh;
             margin: 1vw 0vw;
             background: #ffffff;
         }
@@ -55,7 +59,7 @@
             height: 20vw;
             width: 20vw;
             border-radius: 50%;
-            margin-bottom:5vw;
+            margin-top:-5vw;
         }
         .accordion-content {
             height: 0vw;
