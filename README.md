@@ -32,7 +32,7 @@
         .head {
             font-size:5vw;
             margin-left: 10vw;
-            margin-buttom: 15vw;
+            margin-buttom: 10vw;
             
         }
         .accordion {
@@ -59,7 +59,7 @@
             height: 20vw;
             width: 20vw;
             border-radius: 50%;
-            margin-bottom:2vw;
+            margin-top:-2.5vw;
         }
         .accordion-content {
             height: 0vw;
