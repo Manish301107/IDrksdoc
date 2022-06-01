@@ -28,12 +28,12 @@
         .head {
             font-size:5vw;
             margin-left: 25vw;
-            margin-top: -20vw;
+            margin-top: 0vw;
             
         }
         .accordion {
-            width: 55vh;
-            margin: 2vw;
+            width: 53vh;
+            margin: 1vw 0.5vw;
             background: #ffffff;
         }
         .accordion-taggle {
