@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>document</title>
@@ -45,12 +44,12 @@
             background: #EFC050;
             font-size:5vw;
             display:block;
-            padding: 10vw 12px;
+            padding: 5vw 12px;
             position: relative;
             font-weight:bold;
             border-radius:2vw;
             border-top:5vw solid #ecf0f1;
-            height: 20vw;
+            height: 40vw;
         }
         .icon {
             height: 20vw;
