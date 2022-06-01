@@ -23,16 +23,16 @@
         .backpage {
             height: 10vw;
             width: 10vw;
-            margin: 2vw 2vw;
+            margin: -20vw 2vw;
         }
         .head {
             font-size:5vw;
             margin-left: 25vw;
-            margin-top: -15vw;
+            margin-top: -25vw;
             
         }
         .accordion {
-            width: 60vh;
+            width: 50vh;
             margin: 2vh;
             background: #ffffff;
         }
@@ -49,7 +49,7 @@
             font-weight:bold;
             border-radius:2vw;
             border-top:5vw solid #ecf0f1;
-            height: 40vw;
+            height: 30vw;
         }
         .icon {
             height: 20vw;
